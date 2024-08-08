@@ -66,7 +66,6 @@ Requerimientos
 
 Imagenes del Proyecto Realizado
 --
-
 Imagen 1
 
 ![img.png](img.png)
