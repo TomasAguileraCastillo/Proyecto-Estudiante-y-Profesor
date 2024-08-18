@@ -25,6 +25,7 @@ public class Cliente {
 
     //Metodos
 
+
     @Override
     public String toString() {
         return  "\n" +
