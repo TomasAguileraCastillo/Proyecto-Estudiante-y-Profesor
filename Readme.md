@@ -1,7 +1,7 @@
 Proyecto Java Spring Estudiante, Profesor 
 
 
-Imagenes del Proyecto
+Imagenes  del Proyecto
 
 ![img.png](img.png)
 
